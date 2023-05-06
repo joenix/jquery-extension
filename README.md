@@ -43,5 +43,5 @@ $('#vueRender').render({
 > Result
 
 ```html
-Hi, Joenix !
+Hi, Joenix !!
 ```
